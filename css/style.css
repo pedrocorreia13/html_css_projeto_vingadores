@@ -106,8 +106,8 @@ header a:focus {
 
 .hero h1 {
   color: #ebebeb;
+  color: white; text-shadow: #f13239 2px 3px 3px;
   font-size: 36px;
-  background-color: #f13239;
   padding: 4px 8px;
 }
 
